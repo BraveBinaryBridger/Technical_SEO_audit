@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /not-found-page
+Disallow: /broken-link-in-nav.html
+Disallow: /style.css  # ERROR: Blocking this file prevents Google from rendering the page correctly.
